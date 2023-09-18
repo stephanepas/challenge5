@@ -40,7 +40,7 @@ section:nth-of-type(4) {
 svg {
   position: absolute;
   top: 26px;
-  left: calc(100% - 154px);
+  left: calc(100% - 300px);
   z-index: -1;
   transform: scale(1.5);
 }
